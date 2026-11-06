@@ -9,7 +9,7 @@ i fixed the bugs that were in the code thanks to the verify in the arduino ide. 
 I opened the serial monitor and entered "sos" and it workedddd i cant explain the feeling of it i felt super good about myself 
 i will upload the video here.
 <img width="500" height="650" alt="1793963912870" src="https://github.com/user-attachments/assets/5f6f9a5a-1353-403b-8cd3-0b497bf79796" />
-<a href= https://youtube.com/shorts/GjVLA4oEs30/>
+<a href= https://youtube.com/shorts/GjVLA4oEs30 />
 If you want you can even print sentences through it.
 
 
