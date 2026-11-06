@@ -1,3 +1,8 @@
+FIRST DAYYYY
+I BUILT THE CODE IN ABOUT AN HOUR AND TOMMOROW I AM GOING TO CONNECT IT TO AN ARDUINO UNO AND A RESISTOR AND ONE LED.
+AND EVERY THING IS ON GITHUB REPO.
+<img width="567" height="678" alt="Screenshot 2026-11-03 210827" src="https://github.com/user-attachments/assets/29a6286e-553e-4e06-861f-0b2c77cd2487" />
+
 bug fixes and running:
 After i connected the arduino to my computer and the led and the resistor and the cables one to the ground and one to pin 4,
 i fixed the bugs that were in the code thanks to the verify in the arduino ide. After that i uploaded it to arduino. 
